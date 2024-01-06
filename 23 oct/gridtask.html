@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr 1fr ;
+            row-gap: 10px;
+            column-gap: 10px;
+        }
+        img{
+            width: 100%;
+            object-fit: cover;
+            height: 100%;
+        }
+        .logo1{
+            grid-row: span 2;
+        }
+        .logo{
+            height: 400px;
+        }
+        
+    </style>
+</head>
+<body>
+
+        <section class="box">
+            <div class="logo">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp" alt="">
+            </div>
+            
+            <div class="logo1">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain2.webp" alt="">
+            </div>
+            <div class="logo">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp" alt="">
+            </div>
+            <div class="logo1">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain1.webp" alt="">
+            </div>
+            <div class="logo1">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(18).webp" alt="">
+            </div>
+
+            <div class="logo">
+                <img src="  https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain3.webp" alt="">
+            </div>
+        </section>
+</body>
+</html>

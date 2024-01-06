@@ -1,0 +1,131 @@
+/* .container{
+    width: 1450px;
+    margin: 0 auto;
+}
+.box1{
+    border: 2px solid;
+    width: 32%;
+    border-radius: 7px;
+    margin: 20px;
+    background-image: linear-gradient(rgb(183, 77, 82),rgb(106, 8, 96),red);
+    /* display: inli; */
+/* } */
+ /* .box-1number:after{
+    content: "";
+    border-left: 6px solid black;
+    height: 380px; 
+     margin: 10px 0 0 10px; 
+    position: absolute;
+    left: 510px;
+    bottom: 345px;
+
+}
+.box-1number h2{
+    text-align: end;
+    font-family: 'Londrina Shadow', sans-serif;
+    font-size: 50px;
+   color: white;
+   padding-right: 20px;
+   position: relative;
+   top: 50px;
+}
+.box-1number h3{
+    font-size: 25px;
+    color: white;
+    padding-left: 40px;
+}
+
+.box-1number p{
+    font-size: 15px;
+    color: white;
+    padding: 0 0 60px 40px;
+    font-size: 20px;
+    width: 70%;  
+}
+.hr{
+    border-color: black;
+    width: 100px;
+}
+.box1-main{
+    display:flex;
+    justify-content: space-between;
+}
+.main{
+    display: flex;
+    justify-content: ;
+}  */
+.box-child-1{
+    height:200px ;
+    border: 2px solid;
+    border-radius: 7px;
+    margin: 20px;
+    background-image: linear-gradient(rgb(183, 77, 82),rgb(106, 8, 96),red);
+}
+.box-child-3{
+    margin: 20px;
+}
+.box-child-1 h2{
+    text-align: end;
+    font-family: 'Londrina Shadow', sans-serif;
+    font-size: 50px;
+   color: white;
+   padding-right: 20px;
+    position:absolute;
+    left: 343px; 
+    top: -20px;
+}
+.box-child-1 h1{
+    text-align: end;
+    font-family: 'Londrina Shadow', sans-serif;
+    font-size: 50px;
+    color: rgb(234, 232, 232);
+    padding-right: 20px;
+    position:absolute;
+    right: 250px;
+    top: 140px;
+}
+.row{
+    display: flex;
+}
+.col-30{
+    width: 25%;
+    border: solid 1px;
+}
+.box-child-2{
+    align-items:flex-end;
+}
+.box-child-2:after{
+    content: "__________________";
+    position: relative;
+    bottom: 25px;
+}
+.box-child-2:before{
+    content: "_________________";
+    position: relative;
+    bottom: 35px;
+}
+.box-child-4:after{
+    content: "________________";
+    position: relative;
+    top: 25px;
+}
+.box-child-4:before{
+    content: "________________";
+    position: relative;
+    top: 15px;
+}
+.box-child-4{
+    padding: 100px 0 0 0;
+}
+h1{
+    padding: 0 15px; 
+}
+.box-child-1::after{
+    content: "";
+    border-left: 5px solid;
+    width: 3px;
+    height: 240px;
+    position: absolute;
+    left: 420px;
+    top: 15px;
+}

@@ -1,0 +1,143 @@
+@media(min-width: 370px) {
+    .container {
+        width: 320px;
+    }
+    .logo img {
+        width: 100%;
+    }
+    .sec-one-lorem{
+        width: 100%;
+    }
+    .box img{
+        width: 50%;
+    }
+    .round .circal img{
+        width: 25%;
+    }
+    .secone-col3 h2{
+        font-size: 60px;
+    }
+    .round{
+        position: absolute;
+        left: 250px;
+        top: 310px;}
+    .round{
+        position: absolute;
+    }
+    .secone-col3 h2{
+        font-size: 20px;
+    }
+    .secone-col3 h2{
+        font-size: 30px;
+    }
+}
+/*  <!-- -----------------------------------------------------------  START MediaQuary mobile -------------------------------------------------------------------> */
+@media(min-width: 576px) {
+    .container {
+        width: 520px;
+    }
+
+    .logo img {
+        width: 100%;
+    }
+    .sec-one-lorem{
+        width: 100%;
+    }
+    .box img{
+        width: 60%;
+    }
+    .round .circal img{
+        width: 45%;
+    }
+    .secone-col3 h2{
+        font-size: 60px;
+    }
+    .round{
+        position: absolute;
+        left: 185px;
+        top: 170px;}
+        .secone-col3 h2{
+            font-size: 50px;
+        }
+
+}
+/*  <!-- -----------------------------------------------------------  START MediaQuary Tablet -------------------------------------------------------------------> */
+@media(min-width: 768px) {
+    .container {
+        width: 720px;
+    }
+    .logo img {
+        width: 80%;
+    }
+    .sec-one-lorem{
+        width: 80%;
+    }
+    .box img{
+        width: 80%;
+    }
+    .round .circal img{
+        width: 55%;
+    }
+    .round{
+        position: absolute;
+        left: 215px;
+        top: 150px;}
+    .secone-col3 h2{
+        font-size: 80px;
+    }
+  
+}
+
+/*  <!-- -----------------------------------------------------------  START MediaQuary macbook -------------------------------------------------------------------> */
+@media(min-width: 992px) {
+    .container {
+        width: 920px;
+    }
+    .logo img {
+        width: 50%;
+    }
+    .sec-one-lorem{
+        width: 60%;
+    }
+    .box img{
+        width: 65%;
+    }
+    .round .circal img{
+        width: 45%;
+    }
+    .round{
+        position: absolute;
+        left: 460px;
+        top: 150px;}
+    .secone-col3 h2{
+        font-size: 60px;
+    }
+}
+
+ /*  <!-- -----------------------------------------------------------  START MediaQuary Desktop -------------------------------------------------------------------> */
+@media(min-width: 1200px)
+{
+    .container {
+        width: 1180px;
+    }
+    .logo img {
+        width: 50%;
+    }
+    .sec-one-lorem{
+        width: 70%;
+    }
+    .box img{
+        width: 65%;
+    }
+    .round .circal img{
+        width: 50%;
+    }
+    .round{
+        position: absolute;
+        left: 480px;
+        top: 130px;}
+        .secone-col3 h2{
+            font-size: 100px;
+        }
+        
+}

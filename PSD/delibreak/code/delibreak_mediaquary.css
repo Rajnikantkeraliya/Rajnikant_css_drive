@@ -1,0 +1,644 @@
+@media(min-width: 370px) {
+    .container {
+        width: 320px;
+    }
+
+    .col-50 .line-one {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .col-50 {
+        width: 100%;
+    }
+
+    .sec2_col50 {
+        width: 100%;
+    }
+
+    .sec2_col45 {
+        width: 100%;
+    }
+
+    .heading {
+        width: 100%;
+    }
+
+    .sec2_lorem {
+        width: 100%;
+    }
+
+    .part2-lorem {
+        width: 100%;
+    }
+
+    .sec-3-text h3 {
+        width: 100%;
+    }
+
+    .sec-3-text h2 {
+        width: 100%;
+    }
+
+    .sec-3col-50 {
+        width: 100%;
+    }
+
+    .sec4-col45 {
+        width: 100%;
+    }
+
+    .sec4-heading h2 {
+        font-size: 30px;
+    }
+
+    .second {
+        padding: 100px 0 0 50px;
+        margin-top: 30px;
+
+    }
+
+    .third {
+        padding: 100px 0 0 50px;
+        margin-top: 30px;
+    }
+
+    .se4-col50 .sec4-img {
+        width: 100%;
+    }
+
+    .sec4-lorem {
+        width: 100%;
+    }
+
+    .sec4-heading {
+        padding-right: 80px;
+    }
+
+    .sec-4-part3 {
+        padding-right: 30px;
+    }
+
+    .sec5-col-50 {
+        width: 100%;
+    }
+
+    .sec-5heading {
+        width: 100%;
+    }
+
+    .sec-5-lorem {
+        width: 100%;
+    }
+
+    .sec7-col30 {
+        width: 100%;
+    }
+
+    .sec7-lorem {
+        width: 100%;
+        font-size: 8px;
+    }
+
+    .sec-7col70 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .sec-7heading {
+        width: 100%;
+    }
+
+    .width {
+        width: 100%;
+    }
+
+    .sec-7col35 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .sec8-name h3 {
+        width: 100%;
+    }
+
+    .sec8-name h2 {
+        font-size: 50px;
+    }
+
+    .footerhead h2 {
+        font-size: 42px;
+    }
+
+
+    #submit {
+        padding:0 58px ;
+     }
+      .star{
+       width: 100%;
+     }
+     .star{
+        left: 100px;
+        top:100px ;
+     }
+}
+
+/*  <!-- -----------------------------------------------------------  START MediaQuary mobile -------------------------------------------------------------------> */
+@media(min-width: 576px) {
+    .container {
+        width: 520px;
+    }
+
+    .col-50 .line-one {
+        width: 80%;
+        padding: 20px;
+    }
+
+    .col-50 {
+        width: 80%;
+    }
+
+    .sec2_col50 {
+        width: 90%;
+    }
+
+    .sec2_col45 {
+        width: 90%;
+    }
+
+    .heading {
+        width: 100%;
+    }
+
+    .sec2_lorem {
+        width: 100%;
+    }
+
+    .part2-lorem {
+        width: 100%;
+    }
+
+    .sec-3-text h3 {
+        width: 100%;
+    }
+
+    .sec-3-text h2 {
+        width: 100%;
+    }
+
+    .sec-3col-50 {
+        width: 100%;
+    }
+
+    .sec4-col45 {
+        width: 90%;
+    }
+
+    .se4-col50 .sec4-img {
+        width: 100%;
+    }
+
+    .sec4-lorem {
+        width: 100%;
+    }
+
+    .second {
+        padding: 20px 0 0 50px;
+
+    }
+
+    .third {
+        padding: 20px 0 0 50px;
+    }
+
+    .sec5-col-50 {
+        width: 100%;
+    }
+
+    .sec-5heading {
+        width: 100%;
+    }
+
+    .sec-5-lorem {
+        width: 100%;
+    }
+
+    .sec7-col30 {
+        width: 90%;
+    }
+
+    .sec7-lorem {
+        width: 100%;
+        font-size: 8px;
+    }
+
+    .sec-7col70 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .sec-7heading {
+        width: 100%;
+    }
+
+    .width {
+        width: 100%;
+    }
+
+    .sec-7col35 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .sec8-name h3 {
+        width: 90%;
+    }
+
+    .sec8-name h2 {
+        font-size: 30;
+        margin: 0 auto;
+    }
+
+    .sec8-name h2 {
+        font-size: 80px;
+    }
+    .footerhead h2 {
+        font-size: 72px;
+    }
+
+    #submit {
+       padding:0 58px ;
+    }
+    .star{
+        left: 10px;
+     }
+     .star img{
+       width: 90%;
+     }
+}
+
+/*  <!-- -----------------------------------------------------------  START MediaQuary Tablet -------------------------------------------------------------------> */
+@media(min-width: 768px) {
+    .container {
+        width: 720px;
+    }
+
+    .col-50 .line-one {
+        width: 80%;
+        padding: 20px;
+    }
+
+    .col-50 {
+        width: 80%;
+    }
+
+    .sec2_col50 {
+        width: 80%;
+    }
+
+    .sec2_col45 {
+        width: 80%;
+    }
+
+    .heading {
+        width: 100%;
+    }
+
+    .sec2_lorem {
+        width: 90%;
+    }
+
+    .part2-lorem {
+        width: 90%;
+    }
+
+    .sec-3-text h3 {
+        width: 100%;
+    }
+
+    .sec-3col-50 {
+        width: 80%;
+    }
+
+    .type input {
+        padding: 10px 100px 10px 25px;
+        border-radius: 20px;
+        background-color: white;
+        margin: 15px 0 0 90px;
+        border: none;
+    }
+
+    .search input {
+        background-color: #b68e76;
+    }
+    .search input::placeholder {
+        color: white;
+    }
+    .sec4-col45 {
+        width: 80%;
+    }
+    .se4-col50 .sec4-img {
+        width: 80%;
+    }
+    .sec4-lorem {
+        width: 85%;
+    }
+    .second {
+        padding: 40px 0 0 50px;
+    }
+    .third {
+        padding: 42px 0 0 50px;
+    }
+    .sec5-col-50 {
+        width: 80%;
+    }
+    .sec-5heading {
+        width: 80%;
+    }
+    .sec-5-lorem {
+        width: 82%;
+    }
+    .sec7-col30 {
+        width: 70%;
+    }
+    .sec7-lorem {
+        width: 100%;
+        font-size: 8px;
+    }
+    .sec-7col70 {
+        width: 70%;
+        margin: 0 auto;
+    }
+    .sec-7heading {
+        width: 80%;
+    }
+    .width {
+        width: 90%;
+    }
+    .sec-7col35 {
+        width: 65%;
+        margin: 0 auto;
+    }
+    .sec8-name h3 {
+        width: 70%;
+    }
+    .sec8-name h2 {
+        font-size: 80;
+    }
+    .sec8-name h2 {
+        font-size: 50px;
+    }
+    .footerhead h2 {
+        font-size: 72px;
+    }
+    #submit {
+        padding:10px 105px;
+     }
+     .star{
+        left: 10px;
+     }
+
+}
+/*  <!-- -----------------------------------------------------------  START MediaQuary macbook -------------------------------------------------------------------> */
+@media(min-width: 992px) {
+    .container {
+        width: 920px;
+    }
+    .col-50 .line-one {
+        width: 10 0%;
+        padding: 20px;
+    }
+    .col-50 {
+        width: 35%;
+    }
+    .sec2_col50 {
+        width: 50%;
+    }
+    .sec2_col45 {
+        width: 50%;
+        padding: 60px 0 0 30px;
+    }
+    .heading {
+        width: 70%;
+    }
+    .sec2_lorem {
+        width: 80%;
+    }
+    .part2-lorem {
+        width: 90%;
+    }
+    .sec-3-text h3 {
+        width: 90%;
+    }
+    .sec-3col-50 {
+        width: 60%;
+    }
+    .type input {
+        padding: 10px 100px 10px 25px;
+        border-radius: 20px;
+        background-color: white;
+        margin: 15px 0 0 90px;
+        border: none;
+    }
+    .search input {
+        background-color: #b68e76;
+    }
+    .search input::placeholder {
+        color: white;
+    }
+    .sec4-col45 {
+        width: 40%;
+    }
+    .se4-col50 .sec4-img {
+        width: 50%;
+    }
+    .sec4-lorem {
+        width: 100%;
+    }
+    .head {
+        font-size: 15px;
+        line-height: 35px;
+        padding: 0;
+    }
+    .sec4-heading h2 {
+        font-size: 50px;
+    }
+    .first {
+        padding-top: 10px;
+    }
+    .second {
+        padding: 45px 0 0 50px;
+
+    }
+    .third {
+        padding: 42px 0 0 50px;
+    }
+    .four {
+        padding: 40px 0 0 50px;
+    }
+    .sec5-col-50 {
+        width: 60%;
+    }
+    .sec-5heading {
+        width: 90%;
+    }
+     .sec-5-lorem {
+        width: 62%;
+    }
+    .sec7-col30 {
+        width: 50%;
+    }
+    .sec7-lorem {
+        width: 80%;
+        font-size: 8px;
+    }
+    .sec-7col70 {
+        width: 50%;
+    }
+    .sec-7heading {
+        width: 60%;
+    }
+    .width {
+        width: 90%;
+    }
+    .sec-7col35 {
+        width: 50%;
+        margin: 0 auto;
+    }
+    .sec8-name h3 {
+        width: 40%;
+    }
+    .sec8-name h2 {
+        font-size: 100px;
+    }
+    .footerhead h2 {
+        font-size: 72px;
+    }
+    #submit {
+        padding:10px 105px;
+     }
+     .star{
+        left: 150px;
+        top: 0;
+        width: 70%;
+     }
+}
+/*  <!-- -----------------------------------------------------------  START MediaQuary Desktop -------------------------------------------------------------------> */
+@media(min-width: 1200px) {
+    .container {
+        width: 1180px;
+    }
+    .col-50 .line-one {
+        width: 100%;
+        padding: 20px;
+    }
+    .col-50 {
+        width: 35%;
+    }
+    .sec2_col50 {
+        width: 50%;
+    }
+    .sec2_col45 {
+        width: 50%;
+        padding: 60px 0 0 30px;
+    }
+    .heading {
+        width: 70%;
+    }
+    .sec2_lorem {
+        width: 80%;
+    }
+    .part2-lorem {
+        width: 90%;
+    }
+    .sec-3-text h3 {
+        width: 90%;
+    }
+    .sec-3col-50 {
+        width: 55%;
+    }
+    .type input {
+        padding: 10px 100px 10px 25px;
+        border-radius: 20px;
+        background-color: white;
+        margin: 15px 0 0 90px;
+        border: none;
+    }
+    .search input {
+        background-color: #b68e76;
+    }
+    .search input::placeholder {
+        color: white;
+    }
+    .sec4-col45 {
+        width: 50%;
+    }
+    .se4-col50 .sec4-img {
+        width: 50%;
+    }
+    .sec4-lorem {
+        width: 60%;
+    }
+    .first {
+        padding-top: 25px;
+    }
+    .second {
+        padding: 40px 0 0 50px;
+    }
+    .third {
+        padding: 35px 0 0 50px;
+    }
+    .head {
+        font-size: 15px;
+        line-height: 64px;
+        padding: 0;
+    }
+    .four {
+        padding: 60px 0 0 50px;
+    }
+    .sec5-col-50 {
+        width: 50%;
+    }
+    .sec-5heading {
+        width: 60%;
+    }
+    .sec-5-lorem {
+        width: 62%;
+    }
+    .sec7-col30 {
+        width: 50%;
+    }
+    .sec7-lorem {
+        width: 60%;
+        font-size: 10px;
+    }
+    .sec-7col70 {
+        width: 60%;
+    }
+    .width {
+        width: 100%;
+    }
+    .sec-7col35 {
+        width: 40%;
+        padding-left: 100px;
+    }
+    .sec8-name h3 {
+        width: 40%;
+    }
+    .sec8-name h2 {
+        font-size: 123px;
+    }
+    .footerhead h2 {
+        font-size: 72px;
+    }
+    #submit {
+        padding:10px 105px;
+     }
+     .star{
+        left: 300px;
+        top: 0;
+     }
+     .star{
+        width: 70%;
+     }
+}
